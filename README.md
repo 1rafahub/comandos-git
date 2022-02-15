@@ -1,3 +1,4 @@
+TESTE
 # Repositório de exemplo
 
 # Para configurar o GIT em seu computador:
